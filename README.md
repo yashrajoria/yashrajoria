@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yash Rajoria 👋
 
-<!--
-**yashrajoria/yashrajoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer currently pursuing an MSc in Advanced Software Engineering at King's College London.  
+Previously, I built robust microservices and scalable e-commerce platforms at GSPANN Technologies, India.
 
-Here are some ideas to get you started:
+**Interests:**  
+- Full-stack development (Go, JS/TS, React, Next.js)
+- Microservices & API integration
+- AI/LLM experimentation & API platforms
+- Docker, DevOps, cloud deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently exploring:**  
+- Distributed Ledgers, Crypto, Multi-Agent Systems  
+- UK software job scene, coffee spots, and biryani joints!
+
+Let's connect or check out my pinned projects below!
