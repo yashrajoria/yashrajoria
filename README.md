@@ -46,10 +46,7 @@ Full-stack software developer passionate about building scalable platforms and e
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajoria&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajoria&layout=compact)
 
-## 🐍 My Contributions
-![github-snake](https://github.com/yashrajoria/yashrajoria/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 [LinkedIn](https://www.linkedin.com/in/yashrajoria)  
-Email: yashrajoriagmail.com
